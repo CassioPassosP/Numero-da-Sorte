@@ -14,4 +14,4 @@
 
 # Autor
 
-[<img loading="lazy" src="https://github.com/account" width=115><br><sub>Cassio Passos</sub></br>]
+<br><sub>Cassio Passos</sub></br>
