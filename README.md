@@ -14,4 +14,4 @@
 
 # Autor
 
-[<img loading="lazy" src="">]
+[<img loading="lazy" src="https://github.com/account">]
