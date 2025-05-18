@@ -13,5 +13,5 @@
 
 
 # Autor
-
+[GitHub Logo](https://github.com/CassioPassosP/Numero-da-Sorte/blob/main/logo.png?raw=true)
 <br><sub>Cassio Passos</sub></br>
