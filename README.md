@@ -14,3 +14,4 @@
 
 # Autor
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162655213?v=4" width=115><br><sub>Cassio Passos</sub>](https://github.com/CassioPassosP) |
+| :---: |
