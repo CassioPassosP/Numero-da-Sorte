@@ -1,12 +1,12 @@
 let listasNumerosGerados= [];
-let numeroLimit = 50;
+let numeroLimit = 30;
 let numeroSecreto = gerarNumeroAleatorio();
 let cont=0;
 
 
 console.log(numeroSecreto);
 exibirTextoNaTela('h1','Jogo do numero secreto');
-exibirTextoNaTela('p','Escolha um numero entre 1 e 50');
+exibirTextoNaTela('p','Escolha um numero entre 1 e 30');
 
 function exibirTextoNaTela(tag, texto){
    let campo = document.querySelector(tag); 
@@ -34,7 +34,7 @@ function NovoJogo(){
     limparCampo();
     numeroSecreto = gerarNumeroAleatorio();5
     exibirTextoNaTela('h1','Jogo do numero secreto');
-    exibirTextoNaTela('p','Escolha um numero entre 1 e 10');
+    exibirTextoNaTela('p','Escolha um numero entre 1 e 30');
     cont=0;
     console.log(numeroSecreto);
     document.getElementById('reiniciar').setAttribute('disabled', true);
