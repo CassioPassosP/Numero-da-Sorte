@@ -13,5 +13,5 @@
 
 
 # Autor
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/CassioPassosP) |
+
 <br><sub>Cassio Passos</sub></br>
