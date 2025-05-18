@@ -13,5 +13,5 @@
 
 
 # Autor
-<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" alt="Minha foto de perfil">
+<img src="[https://avatars.githubusercontent.com/u/12345678?v=4](https://github.com/account)" width="150" alt="Minha foto de perfil">
 <br><sub>Cassio Passos</sub></br>
